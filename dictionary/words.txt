@@ -1,0 +1,11 @@
+a = b
+c = d
+e = f
+g = h
+ABC = abcde
+I = eu
+love = amor
+zap = zipzop
+good = bom
+while = enquanto
+who = quem
