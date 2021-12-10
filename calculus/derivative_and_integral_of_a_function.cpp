@@ -1,6 +1,5 @@
 #include <iostream>
 #include <math.h>
-#include <omp.h>
 
 using namespace std;
 
@@ -29,8 +28,6 @@ double derivative(double x){
 int main(){
 	cout << integral(10, 25) << " u.a" << endl;
 	cout << derivative(5);
-	
-
 	
 	return 0;
 }
